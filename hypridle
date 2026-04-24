@@ -1,0 +1,5 @@
+listener {
+    timeout = 200                              # after 200 seconds in idle                     
+    on-timeout = hyprlock	                     # this command (hyprlock) runs        
+    on-resume = notify-send "Welcome back!"	   # you become a notification when you are back   
+}
