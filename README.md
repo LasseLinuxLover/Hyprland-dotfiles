@@ -1,2 +1,2 @@
 # Hyprland-dotfiles
-Just dotfiles
+Dotfiles for Arch Linux with Hyprland
